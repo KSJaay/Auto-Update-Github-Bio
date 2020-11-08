@@ -4,4 +4,4 @@
 
 ## 📝 Credits
 
-(Type.fit)[https://type.fit] for providing the quotes used, which can be found at https://type.fit/api/quotes
+[Type.fit](https://type.fit) for providing the quotes used, which can be found at https://type.fit/api/quotes
